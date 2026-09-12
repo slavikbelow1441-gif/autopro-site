@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://slavikbelow1441-gif.github.io/autopro-site/sitemap.xml
